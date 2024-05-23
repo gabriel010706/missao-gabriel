@@ -15,7 +15,13 @@ const perguntas = [
         ]
     }
 ]; 
-
+{
+    enunciado: "Pergunta 1",
+    alternativas: [
+        "Alternativa 1",
+        "Aternativa 2"
+    ]
+}
 const perguntas = [
     {
         enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
